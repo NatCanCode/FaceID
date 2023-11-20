@@ -34,5 +34,7 @@ isUnlocked = true
 :-------------------------:|:-------------------------:
 | [![Watch the video](https://github.com/NatCanCode/FaceID/assets/77299658/0adbf3b9-d48e-4b6f-9ffd-9c3a49888f91)]] | [![Watch the video](https://github.com/NatCanCode/FaceID/assets/77299658/71dbb4bb-6aaf-4196-8170-7fd58b2476e0) |
 
+## Resources:
+#### It's all explained [here](https://www.hackingwithswift.com/books/ios-swiftui/using-touch-id-and-face-id-with-swiftui) 🙏
 
 
